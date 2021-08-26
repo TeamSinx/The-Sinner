@@ -1,4 +1,4 @@
-+# The Sinner
+# The Sinner
 Telegram's Most Useful, Evil And Fun Group Management Bot !
 
 <p align="center"><a href="https://t.me/sinx_updates"><img src="https://telegra.ph/file/5a8d5d298d762501d2982.jpg" width="300"></a></p>
